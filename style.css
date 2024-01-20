@@ -21,6 +21,12 @@ body {
   font-size: 1.5rem;
 }
 
+body img.logo {
+  width: 100%;
+  max-width: 240px;
+  margin: 0 auto;
+}
+
 /* @media screen and (max-width: 600px) {
   section .links {
     font-size: 2rem;
@@ -28,7 +34,7 @@ body {
 } */
 
 body>h1 {
-  margin: auto auto 0 auto;
+  margin: 0 auto;
   text-align: center;
 }
 
